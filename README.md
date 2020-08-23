@@ -1,3 +1,5 @@
+[ ![Download](https://api.bintray.com/packages/omeronce1994/TrimmedOpenCV4.3.0/NoIPPTrimmedOpenCV4.3.0/images/download.svg) ](https://bintray.com/omeronce1994/TrimmedOpenCV4.3.0/NoIPPTrimmedOpenCV4.3.0/_latestVersion)
+
 # NoIPPTrimmedOpenCV4.3.0
 
 This library contains build of OpenCV 4.3.0 for an android application. The build is trimmed only for core, imgproc and imgcodecs modules so it smaller than the full build. Enjoy!
