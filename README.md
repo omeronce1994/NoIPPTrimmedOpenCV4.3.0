@@ -1,4 +1,5 @@
-[ ![Download](https://api.bintray.com/packages/omeronce1994/TrimmedOpenCV4.3.0/NoIPPTrimmedOpenCV4.3.0/images/download.svg) ](https://bintray.com/omeronce1994/TrimmedOpenCV4.3.0/NoIPPTrimmedOpenCV4.3.0/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/omeronce1994/TrimmedOpenCV4.3.0/NoIPPTrimmedOpenCV4.3.0/images/download.svg) ](https://bintray.com/omeronce1994/TrimmedOpenCV4.3.0/NoIPPTrimmedOpenCV4.3.0/_latestVersion) [![](https://jitpack.io/v/omeronce1994/NoIPPTrimmedOpenCV4.3.0.svg)](https://jitpack.io/#omeronce1994/NoIPPTrimmedOpenCV4.3.0)
+
 
 # NoIPPTrimmedOpenCV4.3.0
 
